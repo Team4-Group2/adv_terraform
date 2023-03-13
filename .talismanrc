@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: demo-exp/main.tf
+  checksum: 93027a848182669ee4b317e8141ba7615cc22c3afcadfbddc72bc4ed00bd61dd
+- filename: main.tf
+  checksum: 24abd7d841d5d7bbba966da24df243733b1d478274b165fa2d1e616ef8d55b00
+- filename: demo-exp1/main.tf
+  checksum: be7222e4f85ce723a0dd14f767b9ae27067b350dc32c68564daef2bdce4de54e
+version: ""
